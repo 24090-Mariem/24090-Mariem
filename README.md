@@ -1,9 +1,9 @@
 <h1 align="center">✨ Hi 👋, I'm Mariem Teslem ✨</h1>
 
-<h3 align="center">Computer Science Student | Full-Stack Developer 💻 | AI Explorer 🤖</h3>
+<h3 align="center">Computer Science Student | Full-Stack Developer  | AI Learner </h3>
 
 <p align="center">
-🌸 Nouakchott, Mauritania • 💖 Passionate Developer • 🚀 Building Modern Web Apps
+🌸 Nouakchott, Mauritania • 🌸 Passionate Developer • 🌸 Building Modern Web Apps
 </p>
 
 <p align="center">
@@ -15,16 +15,16 @@
 ## 💕 About Me
 
 <p>
-🎓 Computer Science Student  
-🤖 Focus: AI / Machine Learning  
-🌍 Languages: French | Arabic | English  
-💡 Passion: Building useful & creative applications  
-✨ Fun: Coding • Cooking • Reading • Shopping • Traveling  
+ Computer Science Student  
+ Focus: AI / Machine Learning  
+ Languages: French | Arabic | English  
+ Passion: Building useful & creative applications  
+ Fun: Coding • Cooking • Reading • Shopping • Traveling  
 </p>
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 ### 🎨 Frontend
 <p>
@@ -60,12 +60,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&title_color=ff69b4" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=24090-Mariem
+&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24090-Mariem
+&layout=compact&theme=radical&title_color=ff69b4" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24090-Mariem
+&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
 </p>
 
 ---
@@ -73,30 +76,30 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=24090-Mariem&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me 💌
+##  Connect With Me 💌
 
 <p align="center">
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mariemmedbelkheir@gmail.com">
 <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mariem-teslem-mohamed-belkheir-b7791b392?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
 <img src="https://img.shields.io/badge/LinkedIn-ff4fa3?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/24090-Mariem">
 <img src="https://img.shields.io/badge/GitHub-ff85c1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## ✨ Quote
+##  Quote
 
 > “Code is not just syntax, it's creativity turned into reality 💖”
 

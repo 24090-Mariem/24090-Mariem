@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi 👋, I'm Mariem Teslem ✨</h1>
+<h1 align="center"> Hi , I'm Mariem Teslem </h1>
 
 <h3 align="center">Computer Science Student | Full-Stack Developer  | AI Learner </h3>
 
@@ -14,33 +14,33 @@
 
 ## 💕 About Me
 
-<p>
- Computer Science Student  
- Focus: AI / Machine Learning  
- Languages: French | Arabic | English  
- Passion: Building useful & creative applications  
- Fun: Coding • Cooking • Reading • Shopping • Traveling  
-</p>
+<div>
+ Computer Science Student</br>  
+ Focus: AI / Machine Learning  </br>
+ Languages: French | Arabic | English </br> 
+ Passion: Building useful & creative applications </br> 
+ Fun: Coding • Cooking • Reading • Shopping • Traveling </br> 
+</div>
 
 ---
 
 ##  Tech Stack
 
-### 🎨 Frontend
+###  Frontend
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
 </p>
 
-### 🧠 Languages
+###  Languages
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -49,7 +49,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
@@ -57,23 +57,23 @@
 
 ---
 
-## 📊 GitHub Stats
+
+
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=24090-Mariem
-&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24090-Mariem
-&layout=compact&theme=radical&title_color=ff69b4" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=24090-Mariem&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24090-Mariem&layout=compact&theme=radical&title_color=ff69b4" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24090-Mariem
-&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24090-Mariem&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=24090-Mariem&theme=radical&no-frame=true&row=1&column=6"/>
